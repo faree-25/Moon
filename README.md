@@ -1,2 +1,2 @@
-o# Moon
+# Moon
 Stars
